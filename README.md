@@ -40,6 +40,6 @@ The goals of this project were outlined with the use of a Gantt Chart. The link 
 `Links:`
 
 - [Scope_of_Work](CIVE202_Spring2026_Project3_Group12_SOW.docx)
-- [Written_Report]()
-- [Engineering_Time_Sheet]()
+- [Written_Report](CIVE202_Spring2026_Group12_Project3_WrittenReport.docx)
+- [Engineering_Time_Sheet](CIVE202_Spring2026_Project3_Group12_EngineeringTimeSheet.csv)
 - [Annotated_Code_Document](CIVE202_Spring2026_P3_Group12_ACD.xlsx)
